@@ -1,0 +1,22 @@
+* { 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
+
+:root {
+    --border-color: #dbdbdb;
+    --text-color: #333;
+    --primary-color: rgb(83, 169, 240);
+    --white-color: white;
+}
+/* #5f83e7 */
+.must-input-icon {
+    color: red;
+}
+
+.btns--size-s {
+    height: auto;
+    font-size: 13px;
+}
